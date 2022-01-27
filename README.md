@@ -1,6 +1,6 @@
 👋 Born in Korea, Raised in Sydney Australia
 
-👀 Into Backend Web development
+👀 Into Backend development
 
 🌱 Stacks
 
