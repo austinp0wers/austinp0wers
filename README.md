@@ -1,4 +1,4 @@
-:kr: Born in Seoul, Korea,
+:tiger: Born in Seoul, Korea,
 for those who may be wondering, it's South Korea.
 
 :koala: Raised in Sydney, Australia
