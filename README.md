@@ -1,4 +1,7 @@
-👋 Born in Korea, Raised in Sydney Australia
+:kr: Born in Seoul, Korea,
+for those who may be wondering, it's South Korea.
+
+:koala: Raised in Sydney, Australia
 
 👀 Into Backend development
 
