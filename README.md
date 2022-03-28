@@ -15,6 +15,6 @@
 :thumbsup: Solve algorithms with <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 
-currently trying to implement the best practices for node js project.
+:thumbsup: currently learning and trying to implement the best practices of node js project.
 
 [best practices reference i'm currently using](https://github.com/goldbergyoni/nodebestpractices)
