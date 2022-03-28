@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
-:thumbsup: Solve algorithms with <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+:robot: Solve algorithms with <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 
 :thumbsup: currently learning and trying to implement the best practices of node js project.
