@@ -16,4 +16,5 @@
 
 
 currently trying to implement the best practices for node js project.
-[reference](https://github.com/goldbergyoni/nodebestpractices)
+
+[best practices reference i'm currently using](https://github.com/goldbergyoni/nodebestpractices)
