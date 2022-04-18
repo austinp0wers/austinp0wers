@@ -2,7 +2,7 @@
 
 :koala: Raised in Sydney, Australia
 
-👀 Into Backend development
+👀 Backend developer
 
 <h3 align="center"><b>🛠🌱 Tech Stacks🛠</b></h3>
 
@@ -22,5 +22,6 @@
 
 
 :thumbsup: currently learning and trying to implement the best practices of node js project.
+📈 배움을 멈추지 않는, 성장형 개발자
 
 [best practices reference i'm currently using](https://github.com/goldbergyoni/nodebestpractices)
