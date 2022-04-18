@@ -22,6 +22,6 @@
 
 
 :thumbsup: currently learning and trying to implement the best practices of node js project.
-📈 배움을 멈추지 않는, 성장형 개발자
+📈 배움을 멈추지 않는 성장형 개발자
 
 [best practices reference i'm currently using](https://github.com/goldbergyoni/nodebestpractices)
