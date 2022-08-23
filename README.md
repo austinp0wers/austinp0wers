@@ -22,10 +22,3 @@
 
 
 :robot: Solve algorithms with <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-
-
-:thumbsup: currently learning and trying to implement the best practices of node js. 
-
-📈 배움을 멈추지 않는 성장형 개발자
-
-[best practices reference i'm currently using](https://github.com/goldbergyoni/nodebestpractices)
