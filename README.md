@@ -1,10 +1,10 @@
-:tiger: Born in Seoul, Korea,
+:tiger: Born in Seoul, South Korea,
 
 :koala: Raised in Sydney, Australia
 
 👀 Backend developer
 
-<h3 align="center"><b>🛠🌱 Tech Stacks🛠</b></h3>
+<h3 align="center"><b>🛠Tech Stacks🛠</b></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
