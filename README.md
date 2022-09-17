@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=austinp0wers"/></a>
+</p>
+
 :tiger: Born in Seoul, South Korea,
 
 :koala: Raised in Sydney, Australia
