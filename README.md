@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp 
 <img src="https://img.shields.io/badge/docker-33ee64?style=for-the-badge&logo=docker&logoColor=white">&nbsp 
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp 
 </p>
 
 
