@@ -3,8 +3,6 @@
 
 :koala: Raised in Sydney, Australia
 
-👀 Backend developer
-
 <h3 align="center"><b>🛠Tech Stacks🛠</b></h3>
 
 <p align="center">
